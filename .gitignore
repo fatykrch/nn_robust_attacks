@@ -1,0 +1,6 @@
+cifar-data.tar.gz
+nohup.out
+cifar-10-batches-bin/
+__pycache__/
+data/
+models/
